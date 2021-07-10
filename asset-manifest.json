@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demoo/static/css/main.a617e044.chunk.css",
+    "main.js": "/demoo/static/js/main.abf144ab.chunk.js",
+    "main.js.map": "/demoo/static/js/main.abf144ab.chunk.js.map",
+    "runtime-main.js": "/demoo/static/js/runtime-main.7b6c07ca.js",
+    "runtime-main.js.map": "/demoo/static/js/runtime-main.7b6c07ca.js.map",
+    "static/js/2.84c8f592.chunk.js": "/demoo/static/js/2.84c8f592.chunk.js",
+    "static/js/2.84c8f592.chunk.js.map": "/demoo/static/js/2.84c8f592.chunk.js.map",
+    "static/js/3.e7303b26.chunk.js": "/demoo/static/js/3.e7303b26.chunk.js",
+    "static/js/3.e7303b26.chunk.js.map": "/demoo/static/js/3.e7303b26.chunk.js.map",
+    "index.html": "/demoo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/demoo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.84c8f592.chunk.js.LICENSE.txt": "/demoo/static/js/2.84c8f592.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/demoo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6c07ca.js",
+    "static/js/2.84c8f592.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.abf144ab.chunk.js"
+  ]
+}
